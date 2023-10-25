@@ -2,7 +2,7 @@
 MVVM, Hilt, Navigation ve Room kullanımlarını pekiştirmek için gerçekleştirilen basit uygulama.
 
 ## Description
-Bu android uygulaması, Hilt, Navigation ve Room gibi güncel teknolojileri kullanılarak MVVM'e uygun proje gerçekleştirilmesi konusunda deneyim elde edilmesi adına geliştirilmiştir. Uygulamada temel olarak 3 adet
+Bu android uygulaması, Hilt, Navigation ve Room gibi güncel teknolojileri kullanılarak MVVM'e uygun proje gerçekleştirilmesi konusunda deneyim elde edilmesi adına geliştirilmiştir. Uygulama temel olarak 3 adet
 fragment üzerinde çalışmaktadır.
 
 ## App Display Image
